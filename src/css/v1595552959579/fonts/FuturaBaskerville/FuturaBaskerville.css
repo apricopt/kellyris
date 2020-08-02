@@ -1,0 +1,49 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3652007, 2018-10-05T14:36:47-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: BaskervilleBT-Roman by Bitstream
+ * URL: https://www.myfonts.com/fonts/bitstream/baskerville/roman/
+ * Copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * 
+ * Webfont: BaskervilleBT-Italic by Bitstream
+ * URL: https://www.myfonts.com/fonts/bitstream/baskerville/italic/
+ * Copyright: Copyright 1990-2003 Bitstream Inc. All rights reserved.
+ * 
+ * Webfont: FuturaPT-Book by ParaType
+ * URL: https://www.myfonts.com/fonts/paratype/futura-book/futura-book/
+ * Copyright: Copyright &#x00A9; 1995 ParaGraph Intl., &#x00A9; 1998 ParaType Inc., ParaType Ltd. All rights reserved.
+ * 
+ * Webfont: FuturaPT-Medium by ParaType
+ * URL: https://www.myfonts.com/fonts/paratype/futura-book/futura-medium/
+ * Copyright: Copyright &#x00A9; 1995 ParaGraph Intl., &#x00A9; 1998 ParaType Inc., ParaType Ltd. All rights reserved.
+ * 
+ * Webfont: FuturaPT-Bold by ParaType
+ * URL: https://www.myfonts.com/fonts/paratype/futura-book/bold/
+ * Copyright: Copyright &#x00A9; 1995 ParaGraph Intl., &#x00A9; 1998 ParaType Inc., ParaType Ltd. All rights reserved.
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3652007
+ * Licensed pageviews: 450,000
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+  
+@font-face {font-family: 'BaskervilleBT-Roman';src: url('37B9A7_0_0.eot');src: url('37B9A7_0_0d41d.eot?#iefix') format('embedded-opentype'),url('37B9A7_0_0.woff2') format('woff2'),url('37B9A7_0_0.woff') format('woff'),url('37B9A7_0_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'BaskervilleBT-Italic';src: url('37B9A7_1_0.eot');src: url('37B9A7_1_0d41d.eot?#iefix') format('embedded-opentype'),url('37B9A7_1_0.woff2') format('woff2'),url('37B9A7_1_0.woff') format('woff'),url('37B9A7_1_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'FuturaPT-Book';src: url('37B9A7_2_0.eot');src: url('37B9A7_2_0d41d.eot?#iefix') format('embedded-opentype'),url('37B9A7_2_0.woff2') format('woff2'),url('37B9A7_2_0.woff') format('woff'),url('37B9A7_2_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'FuturaPT-Medium';src: url('37B9A7_3_0.eot');src: url('37B9A7_3_0d41d.eot?#iefix') format('embedded-opentype'),url('37B9A7_3_0.woff2') format('woff2'),url('37B9A7_3_0.woff') format('woff'),url('37B9A7_3_0.ttf') format('truetype');}
+ 
+@font-face {font-family: 'FuturaPT-Bold';src: url('37B9A7_4_0.eot');src: url('37B9A7_4_0d41d.eot?#iefix') format('embedded-opentype'),url('37B9A7_4_0.woff2') format('woff2'),url('37B9A7_4_0.woff') format('woff'),url('37B9A7_4_0.ttf') format('truetype');}

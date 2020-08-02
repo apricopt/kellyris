@@ -1,0 +1,159 @@
+/*Mobile Homepage Styles*/
+@media screen and (max-width:767px) {
+	.mobile-homepage {
+		width:100%;
+		max-width: 580px;
+		margin: 0 auto;
+	}
+	.mobile-homepage .promo-slot a {
+		display: block;
+		font-size: 0;
+	}
+	.mobile-homepage img {
+		max-width: 100%;
+	}
+	/*Hides mobile nav toggle, header cart and  header search. These are only hidden on the mobile homepage*/
+	#mini-cart, .mobile-header-search-container {
+		display: block;
+		visibility: visible;
+	}
+	.mobile-homepage-search {
+		display: block;	
+		position: relative;
+		margin: 20px auto;
+		height: 45px;
+		border-radius: 0;
+	}
+	.mobile-homepage-search input {
+		border-radius: 0;
+	}
+	.mobile-homepage-search input[type="text"] {
+		border: none;
+		padding: 0 50px 0 25px;
+		font: 700 18px/45px BrandonGrotesqueWeb-Medium;
+		text-transform: uppercase;
+	}
+	.mobile-homepage-search input[type="text"]::-webkit-input-placeholder {
+		color: #000 !important;
+	}
+
+	.mobile-homepage-search input[type="text"]:-moz-placeholder { /* Firefox 18- */
+		color: #000 !important;
+	}
+
+	.mobile-homepage-search input[type="text"]::-moz-placeholder {  /* Firefox 19+ */
+		color: #000 !important;
+	}
+
+	.mobile-homepage-search input[type="text"]:-ms-input-placeholder {
+		color: #000 !important;
+	}
+	.mobile-homepage-search input[type=submit] {
+		position: absolute;
+		background: transparent;
+		text-indent: -999em;
+		border: none;
+		right: 0; 
+		top: 0;
+		width: 30px;
+		height: 100%;
+	}
+	.mobile-homepage-search .search-submit:after {
+		content:"\f002";
+		color:#000;
+		width: 100%;
+		position: absolute; 
+		font-size: 18px;
+		right: 25px;
+		top: 10px;
+		width: 18px;
+		height: 18px;
+		font-family:'fontawesome';
+	}
+	.mobile-homepage-navigation {
+;
+	}
+	.mobile-homepage-navigation ul {
+		margin: 0;
+		padding: 0;
+		border-top: 3px solid #a9a9a9;
+	}
+	.mobile-homepage-navigation ul li a {
+		color: #000;
+		text-transform: uppercase;
+		border-bottom: 3px solid #a9a9a9;
+		padding: 7px 25px;
+		font: 700 18px/45px BrandonGrotesqueWeb-Medium;
+		position: relative;
+		display: block;
+	}
+	.mobile-homepage-navigation ul li.first a:first-child {
+		
+	}
+	.mobile-homepage-navigation ul li a.expand {
+		border-bottom:0;
+	}
+	.mobile-homepage-navigation ul li a:after {
+		content: '+';
+		color: #000;
+		font: 700 33px/47px BrandonGrotesqueWeb-Medium;
+		position: absolute;
+		top: 7px;
+		right: 20px;
+	}
+	.mobile-homepage-navigation ul li a.expand:after {
+		content: '-';
+		width: 18px;
+	}
+	.mobile-homepage-navigation ul.level-2 li a:after {
+		content: '';
+	}
+	.mobile-homepage-navigation ul.level-2 ii a, .mobile-homepage-navigation ul.level-3 li a {
+		padding:0px 25px;
+	}
+	.mobile-homepage-navigation ul.level-2, .mobile-homepage-navigation ul.level-2 li a, .mobile-homepage-navigation ul.level-3, .mobile-homepage-navigation ul.level-3 li a {
+		border-bottom:0;
+		border-top:0;
+		font-size:12px;
+	}
+	.mobile-homepage .account-cart-links {
+		width: 90%;
+		margin: 0 auto;
+		max-width: 520px;
+		color: black;
+	}
+	.account-cart-links .account-link {
+		display: inline-block;
+		width: 60%;
+		float: left;
+	}
+	.account-cart-links .cart-link {
+		display: none;
+		text-align: right;
+		width: 40%;
+		height: 100%;
+		float: right;
+
+	}
+	.account-cart-links .cart-link.mini-cart-label {
+		padding-right: 2px;
+	}
+	.account-cart-links .cart-link .mini-cart-total span, 
+	.account-cart-links .cart-link .mini-cart-total a, 
+	.account-cart-links .cart-link .mini-cart-total a:hover,
+	.account-cart-links .menu-utility-user {
+		display: inline-block;
+		margin: 0;
+		text-transform: uppercase;
+		font-size: 13px;
+		color: #000;
+		line-height: 2;
+	}
+	.account-cart-links .menu-utility-user li.last {
+		display:none;
+		visibility: hidden;
+	}
+	.account-cart-links .menu-utility-user li {
+		border: none;
+	}
+}

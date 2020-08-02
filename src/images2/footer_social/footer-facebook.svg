@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="16px" viewBox="0 0 9 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>3CBAE032-7188-49BD-9F38-89CC2D4C445D-721-00002C1428A4FB3C@2x</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 9 0 9 16 0 16"></polygon>
+    </defs>
+    <g id="The-Gallery" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.4">
+        <g id="The-Gallery-desktop" transform="translate(-1105.000000, -2703.000000)">
+            <g id="Footer" transform="translate(0.000000, 2129.000000)">
+                <g id="facebook" transform="translate(1105.000000, 574.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M8.9987042,2.78144 L6.42783097,2.78144 C6.12396516,2.78144 5.78511266,3.1776 5.78511266,3.70304 L5.78511266,5.53664 L9,5.53664 L8.51407386,8.15104 L5.78511266,8.15104 L5.78511266,16 L2.75163775,16 L2.75163775,8.15104 L0,8.15104 L0,5.53664 L2.75163775,5.53664 L2.75163775,3.99872 C2.75163775,1.79264 4.30141818,0 6.42783097,0 L8.9987042,0 L8.9987042,2.78144 Z" id="Fill-1" fill="#000000" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
