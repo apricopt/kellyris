@@ -28,6 +28,7 @@ import Thecafe from "./views/thecafe";
 import About from "./views/about";
 import Productsgallery from "./views/productsgallery";
 import Productdetail from "./views/productdetail";
+import Projectdetail from "./views/projectdetail"
 
 import Underconstruction from "./views/underconstruction"
 
@@ -45,6 +46,11 @@ function App() {
           {/* interiors pages starts here */}
           <Route path={"/residential"} exact component={Residential} />
           <Route path={"/commercial"} exact component={Commercial} />
+
+          <Route path={"/projectdetail"}  exact render={(props) => (
+    <Projectdetail alpha="naha naha" number={"waha wah"}/>
+  )} />
+          
 
           {/* interior pages ends here */}
           <Route path={"/thestudio"} exact component={Thestudio}/>

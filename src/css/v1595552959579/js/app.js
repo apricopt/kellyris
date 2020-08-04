@@ -5666,7 +5666,7 @@ var app = (function (app, $) {
 			// if part is not equal to the value from the initiated call,
 			// or there were no results in the last call and the query length
 			// is longer than the last query length, return
-			// #TODO: improve this to look at the query value and length
+			
 			if((lastValue !== part) || (listTotal === 0 && part.length > qlen)) {
 				return;
 			}

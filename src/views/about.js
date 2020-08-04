@@ -1,6 +1,7 @@
 
 import React from 'react'
 
+// #TODO well addign
 
 // importing sections here
 import Footer from "../components/footer";
