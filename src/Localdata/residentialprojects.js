@@ -22,13 +22,12 @@ const Data =
     "img2": require("../images2/02_Interiors/detail_pages/residences/hillcrest2/screen-1.jpg"),
     "text2" : "this is the text for the second image",
    
-    "two": "../images2/02_Interiors/detail_pages/residences/hillcrest2/screen-3.jpg",
+    "twoCardsImage": require("../images2/02_Interiors/detail_pages/residences/hillcrest2/screen-3.jpg"),
   
-    "img4": "../images2/02_Interiors/detail_pages/residences/hillcrest2/screen-4.jpg",
+    "threeCardsImage": require("../images2/02_Interiors/detail_pages/residences/hillcrest2/screen-4.jpg"),
   
    
   },
-
   // object1 ends
 
 
